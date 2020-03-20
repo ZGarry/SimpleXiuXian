@@ -15,36 +15,35 @@
 * [挑战](3/fight.md)
 * [查看](3/look.md)
 * [购买](3/buy.md)
-* [更多](3/more.md)
-	* [双修](3/two-players.md)
-	* [兑换](3/change.md)
-	* [闭关](3/inhome.md)
-	* [作弊码](3/cheat.md)
+* [双修](3/two-players.md)
+* [闭关](3/inhome.md)
+* [作弊码](3/cheat.md)
 
 ### 地点
 * [商店](3.5/shop.md)
 * [交易所](3.5/block.md)
+* [婚恋所](3.5/love-place.md)
 
 ### 道具
-* [使用](4/items.md)
+* [购买和使用](4/items.md)
 * [C级道具](4/C-items.md)
 * [B级道具](4/B-items.md)
 * [A级道具](4/A-items.md)
 * [S级道具](4/S-items.md)
 
-### 敌人图鉴
+### 敌人图鉴（暂无）
 * [小野怪](5/monster.md)
 * [Boss](5/boss.md)
 * [NPC](5/npc.md)
 
-### 任务
+### 任务（暂无）
 * [全体任务](6/task-all.md)
 * [个人任务](6/task-you.md)
 
-### 事件
+### 事件（暂无）
 * [事件大全](7/events.md)
 
-### 统计数据
+### 统计数据（暂无）
 * [统计](8/status.md)
 * [系统参数](8/system.md)
 
