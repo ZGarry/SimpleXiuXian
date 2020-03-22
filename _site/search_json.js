@@ -228,48 +228,80 @@ window.ydoc_plugin_search_json = {
       "children": []
     },
     {
-      "title": "道具大全",
-      "content": "大多数道具",
-      "url": "/story/4/items.html",
+      "title": "关于物品使用",
+      "content": "显而易见，你只能使用你持有的东西。使用指令使用#物品，你就可以使用你的背包中的某个物品。物品按等级分为S、A、B、C，以及一些其他恶搞或是提供兑换的物品。希望你玩的开心。",
+      "url": "/story/4/use.html",
+      "children": []
+    },
+    {
+      "title": "C级道具",
+      "content": "具有一定价值，但只要愿意花钱买，总能买到的。C级道具以丹药和石头为主，相对容易获得，但对修炼者的提升仍旧很大。",
+      "url": "/story/4/C-items.html",
       "children": [
         {
-          "title": "B级道具",
-          "url": "/story/4/items.html#b级道具",
-          "content": "B级道具人类智慧的结晶，一些工艺品。每种各5个。"
-        },
-        {
           "title": "丹药类",
-          "url": "/story/4/items.html#b级道具-丹药类",
+          "url": "/story/4/C-items.html#丹药类",
           "content": "丹药类\n\n道具名\n图标\n价格\n类别\n作用\n描述\n\n\n\n\n回气丹\n\n5～12\n消耗品\n体力+5\n修炼者必备，用于快速回复\n\n\n伤药\n\n4～8\n消耗品\n持有伤药的时候，抵消一次修为减少\n务必理性用药\n\n\n红药水\n\n9～11\n消耗品\n疯狂+3，体力+9\n疯狂，躁动，反应\n\n\n聚魔瓶\n\n4～4\n消耗品\n判定一次幸运，通过随机获得一个A级道具\n闪烁着诡异的光泽\n\n\n邪灵药剂\n\n2～9\n消耗品\n疯狂+4\n不疯魔，不成活\n\n\n复合药\n\n3～33\n消耗品\n体力+2，疯狂-2，修为+10\n一针入，一针出\n\n\n序列1\n\n3～33\n消耗品\n50%概率幸运+1，20%概率获得4金币，1%概率获取100金币\n梦幻\n\n\n序列10\n\n7～17\n消耗\n进行一次疯狂判定，加减对应数值\n诱惑\n\n\n迷迭草\n\n1～17\n消耗\n@一个目标，50%对方体力-10，50%你入坑了\n做那件事情前的辅佐药剂\n\n\n笑粉\n\n1～17\n消耗\n@一个目标，让他十个小时内无法操作\n五颜六色，开怀大笑\n\n\n"
         },
         {
           "title": "石头类",
-          "url": "/story/4/items.html#b级道具-石头类",
+          "url": "/story/4/C-items.html#石头类",
           "content": "石头类\n\n道具名\n图标\n价格\n类别\n作用\n描述\n\n\n\n\n回气丹\n\n1～7\n消耗品\n体力+2，满月时使用，20%加1点幸运\n一闪一闪亮晶晶\n\n\n宝石\n\n4～444\n消耗品\n\n大自然鬼斧神工\n\n\n邪气石\n\n1～2\n消耗品\n疯狂+3\n黑暗府邸的产物\n\n\n黑金属\n\n2～9\n消耗品\n修为+50，有概率+100\n其中蕴含着灵气，只是不大好消化\n\n\n闪回石\n\n7～9\n消耗品\n疯狂-10，超过部分加体质\n其上有闪电回文\n\n\n"
         },
         {
+          "title": "B级道具",
+          "url": "/story/4/C-items.html#b级道具",
+          "content": "B级道具人类智慧的结晶，一些工艺品。每种各5个。"
+        }
+      ]
+    },
+    {
+      "title": "",
+      "content": "",
+      "url": "/story/4/B-items.html",
+      "children": [
+        {
+          "title": "B级道具",
+          "url": "/story/4/B-items.html#b级道具",
+          "content": "B级道具人类智慧的结晶，一些工艺品。每种各5个。"
+        },
+        {
           "title": "装备类",
-          "url": "/story/4/items.html#b级道具-装备类",
+          "url": "/story/4/B-items.html#b级道具-装备类",
           "content": "装备类\n\n道具名\n图标\n价格\n类别\n作用\n描述\n\n\n\n\n木剑\n\n2～12\n持有物\n现在，你在战斗方面，幸运计算翻倍\n\n\n\n木盾\n\n2～12\n持有物\n你不会再被挑战夺取修为了\n\n\n\n铁盾\n\n17～27\n持有物\n每次被挑战，触发一次体质判定，增加对应数值\n擅守者，无所攻\n\n\n铁剑\n\n17～27\n持有物\n挑战比自己强的对手时，50%概率体质+3\n擅攻者，无所不攻\n\n\n护身符\n\n22\n持有物\n幸运+5\n\n\n\n银剑\n\n33～56\n持有物\n挑战并获取修为时，双倍获取\n\n\n\n银盾\n\n33～56\n持有物\n\n\n\n\n"
         },
         {
           "title": "道具类",
-          "url": "/story/4/items.html#b级道具-道具类",
+          "url": "/story/4/B-items.html#b级道具-道具类",
           "content": "道具类\n\n道具名\n图标\n价格\n类别\n作用\n描述\n\n\n\n\n藏书阁钥匙\n\n12～56\n持有物\n能使用的日期存在一定秘诀，平方数日打开时，体质+20；双数日打开时，重置今日cd\n\n\n\n会员卡\n\n100\n持有物\n商店购买费用-1\n\n\n\n序列9\n\n1～240\n消耗品\n用于高级物品的附魔\n反伤\n\n\n序列2\n\n1～240\n消耗品\n立即进行一次美德判定\n真挚\n\n\n序列3\n\n1～240\n消耗品\n修为+300\n质朴\n\n\n"
-        },
+        }
+      ]
+    },
+    {
+      "title": "",
+      "content": "",
+      "url": "/story/4/A-items.html",
+      "children": [
         {
           "title": "A级道具",
-          "url": "/story/4/items.html#a级道具",
+          "url": "/story/4/A-items.html#a级道具",
           "content": "A级道具久经过人工雕琢之物，能提供极大的价值。A级道具每种各1个。"
         },
         {
           "title": "武器类",
-          "url": "/story/4/items.html#武器类",
+          "url": "/story/4/A-items.html#武器类",
           "content": "武器类\n\n道具名\n图标\n价格\n类别\n作用\n描述\n\n\n\n\n勋爵\n\n107\n价格消耗品\n\n作用一闪一闪亮晶晶\n\n\n"
-        },
+        }
+      ]
+    },
+    {
+      "title": "",
+      "content": "",
+      "url": "/story/4/S-items.html",
+      "children": [
         {
           "title": "S级宝物",
-          "url": "/story/4/items.html#s级宝物",
+          "url": "/story/4/S-items.html#s级宝物",
           "content": "S级宝物暂未出世。"
         }
       ]

@@ -25,7 +25,7 @@
 * [婚恋所](3.5/love-place.md)
 
 ### 道具
-* [购买和使用](4/items.md)
+* [购买和使用](4/use.md)
 * [C级道具](4/C-items.md)
 * [B级道具](4/B-items.md)
 * [A级道具](4/A-items.md)
