@@ -3,7 +3,7 @@ banner:
   name: '修仙聊天室，从未如此简单！'
   desc: '专为书友群打造的修仙故事集～'
   btns: 
-    - { name: '开 始', href: './documents/index.html', primary: true }
+    - { name: '开 始', href: './begin/index.html', primary: true }
     - { name: 'Github >', href: 'https://github.com/YMFE/ydoc' }
   caption: '当前版本: v0.7'
 features: 

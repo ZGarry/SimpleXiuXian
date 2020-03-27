@@ -8,7 +8,7 @@
 
 > 目前性别为女，13岁。前身是上古时期女希氏先灵圣贤女娲在补天时嫌弃不要扔在凡间的石头。
 
-<img src="img/2.jpg" style="width:40%;"/>
+<img src="../img/2.jpg" style="width:40%;"/>
 
 ...
 
@@ -26,6 +26,6 @@
 ---
 <p style="color:white;">其实，谁来做讲述人无非是抓阄抓出来的。</p>
 
-<p style="color:white;">面粉团的真实身份是，你家邻居家的小女儿。</p>
+<p style="color:white;">面粉团的真实身份是，你邻居家的小女儿。</p>
 
 <p style="color:white;">你们通过猜拳选出了谁来做讲述人，剩下的便都能如愿以偿,扮演勇者。</p>
