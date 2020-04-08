@@ -13,9 +13,13 @@
 <p>发挥系数=(体质判定+疯狂判定)/100。</p>
 </li>
 <li>
-<p>进攻者判定一次幸运，通过则战力翻倍。</p>
+<p>进攻者判定一次幸运，通过则触发暴击，战力翻倍。</p>
+</li>
+<li>
+<p>战力最少也是100点</p>
 </li>
 </ol>
+<p style="color:white;">我不会告诉你，这是因为我不想进行除以0的判断的</p>
 <h2 id="结算">结算</h2>
 <p>战力比r=我方战力/对方战力</p>
 <ul>
@@ -25,12 +29,10 @@
 <li>和：0.9&lt;=r&lt;1.1，判定一次体质，双方均获得其之和。</li>
 <li>小胜三分：1.1&lt;=r&lt;2，用20作普通判定，若通过则体质+4。否则进行一次体质判定，夺取对方对应的修为。</li>
 <li>旗开得胜：2&lt;=r&lt;4，判定两次体质，求和，夺取对方对应修为。</li>
-<li>易如反掌：4&lt;=r&lt;6，判定一次体质，夺取对方对应修为。</li>
-<li>辣手摧花：6&lt;=r，疯狂+1，你判定一次疯狂，失去等于其绝对值的数值，对方判定一次挫败。</li>
+<li>易如反掌：4&lt;=r&lt;7，判定一次体质，夺取对方对应修为。</li>
+<li>辣手摧花：7&lt;=r，失去两百点修为</li>
 </ul>
-<p style="color:white;">负数除以负数将会非常有趣，谁负得多，谁反而更强；</p>
-<p style="color:white;">以及，如果你遇到了对方是负数，你也会挑战不过他，毕竟没人可以打败疯子。</p>
-<p style="color:white;">当然，如果你是开发人员，我郑重的提醒您：不要尝试除以0！</p></div><div class="m-content-container m-paging"><div class="m-paging-prev m-paging-item"><a href="signin.html" class="href"><span class="ui-font-ydoc"></span>签到</a></div><div class="m-paging-next m-paging-item"><a href="look.html" class="href">查看<span class="ui-font-ydoc"></span></a></div></div></div></div></div><div></div><script>
+</div><div class="m-content-container m-paging"><div class="m-paging-prev m-paging-item"><a href="signin.html" class="href"><span class="ui-font-ydoc"></span>签到</a></div><div class="m-paging-next m-paging-item"><a href="look.html" class="href">查看<span class="ui-font-ydoc"></span></a></div></div></div></div></div><div></div><script>
     var $content = document.getElementById('js-content');
     var $summaryItems = Array.prototype.slice.call(document.querySelectorAll('#js-menu .href'));
     var $menu = document.getElementById('js-menu');
