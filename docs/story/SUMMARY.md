@@ -9,6 +9,7 @@
 * [玩家面板](2/property.md)
 * [判定](2/random.md)
 * [等级](2/level.md)
+* [数值改变后果](2/result.md)
 
 ### 行为
 * [签到](3/signin.md)
