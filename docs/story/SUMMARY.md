@@ -32,6 +32,7 @@
 * [B级道具](4/B-items.md)
 * [A级道具](4/A-items.md)
 * [S级道具](4/S-items.md)
+* [特殊道具](4/sp-items.md)
 
 ### 野怪系统
 * [怪兽入侵](5/happen.md)
