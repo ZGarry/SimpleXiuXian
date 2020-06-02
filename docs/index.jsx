@@ -5,7 +5,7 @@ banner:
   btns: 
     - { name: '开 始', href: './begin/index.html', primary: true }
     - { name: 'Github >', href: 'https://github.com/YMFE/ydoc' }
-  caption: '当前版本: v0.7'
+  caption: '当前版本: v1.0'
 features: 
   - { name: '好玩', desc: '一个随时在线的调皮机器人，一场华丽的冒险' }
   - { name: '简单', desc: '三分钟，将这个机器人托管到你的QQ群' }
