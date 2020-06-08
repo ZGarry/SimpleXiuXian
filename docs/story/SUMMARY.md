@@ -36,7 +36,8 @@
 
 ### 野怪系统
 * [怪兽入侵](5/happen.md)
-* [怪物组](5/monster.md)
+* [怪物组1](5/monster1.md)
+* [怪物组2](5/monster2.md)
 
 ### 补充事项
 * [版权](0/copyright.md)
