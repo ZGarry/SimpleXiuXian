@@ -20,6 +20,8 @@
 * [闭关](3/inhome.md)
 * [其他关键词](3/other.md)
 * [作弊码](3/cheat.md)
+* [奖励](3/acti.md)
+* [高度机密](3.5/invisible.md)
 
 ### 地点
 * [商店](3.5/shop.md)
@@ -33,6 +35,7 @@
 * [A级道具](4/A-items.md)
 * [S级道具](4/S-items.md)
 * [特殊道具](4/sp-items.md)
+* [违禁品](4/ban-items.md)
 
 ### 野怪系统
 * [怪兽入侵](5/happen.md)
