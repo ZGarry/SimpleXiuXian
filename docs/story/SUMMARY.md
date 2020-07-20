@@ -21,7 +21,7 @@
 * [其他关键词](3/other.md)
 * [作弊码](3/cheat.md)
 * [奖励](3/acti.md)
-* [高度机密](3.5/invisible.md)
+* [高度机密](3/invisible.md)
 
 ### 地点
 * [商店](3.5/shop.md)
