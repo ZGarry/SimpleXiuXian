@@ -48,3 +48,6 @@
 后端采用C#的库Q机器人，sqllite作存储，具体代码见code目录下部分。
 
 百科全书页面使用[y-doc文档](https://github.com/YMFE/ydoc)生成工具生成。
+
+## 参考资料
+https://www.yuque.com/zfjz/gvwoz4/gh290s?singleDoc# 《开发简单修仙系统的总结与反思》
