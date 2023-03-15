@@ -5,10 +5,12 @@
 这是😊可以在QQ群中玩的文字冒险游戏💕。
 你可以在这儿扮演勇者，打败恶魔；或者是收集这个世界的魔法宝物！
 
+百科全书地址：https://zgarry.github.io/SimpleXiuXian/_site/story/index.html
 
 ## 如何玩耍
 只要...你加入我们的小群or联系作者QQ:1160564525🙌,就可以帮你把机器人添加到你的群内。
 然后@机器人，就可以开始愉快玩耍啦~
+
 ![image](https://user-images.githubusercontent.com/43488431/225171884-cfb4887f-0df9-431f-bf3f-21e7b98545ab.png)
 ![image](https://user-images.githubusercontent.com/43488431/225172024-842b16a1-6faa-4a5a-9f89-0e6ce2ec0172.png)
 ![image](https://user-images.githubusercontent.com/43488431/225172057-7175bba9-63e2-4565-a9d1-6f901d91e2b7.png)
